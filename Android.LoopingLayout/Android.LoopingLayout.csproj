@@ -6,9 +6,12 @@
         
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
-        <Version>0.0.2.1</Version>
+        <Version>0.5.1</Version>
         <Title>Android.LoopingLayout</Title>
         <Authors>egorozh</Authors>
+        <Description>Android .NET Binding library for https://github.com/BeksOmega/looping-layout</Description>
+        <PackageProjectUrl>https://github.com/egorozh/Android.LoopingLayout</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/egorozh/Android.LoopingLayout</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
